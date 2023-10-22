@@ -1,0 +1,2 @@
+#prints hi
+print("hi")
